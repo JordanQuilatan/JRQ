@@ -1,5 +1,8 @@
-<h3 align="center">A learning Computer Engineering student.</h3>
-
+<div style="width: 100%;">
+  <a href="https://github.com/JRQ/JRQ/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 - 🌱 I’m currently learning **Python Programming**
 
 - 📫 How to reach me **jordanquilatan1010@gmail.com**
