@@ -3,6 +3,7 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+
 - 🌱 I’m currently learning **Python Programming**
 
 - 📫 How to reach me **jordanquilatan1010@gmail.com**
@@ -10,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jordan quilatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jordan quilatan" height="30" width="40" /></a>
-<a href="https://discord.gg/00101#2423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="00101#2423" height="30" width="40" /></a>
+<a href="https://discord.gg/00101#2423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2423" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
